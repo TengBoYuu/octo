@@ -1,7 +1,7 @@
 gym >= 0.26
 numpy == 1.24.3
 ml_dtypes == 0.2.0
-chex == 0.1.85
+# chex == 0.1.85
 optax == 0.1.5
 tensorflow_probability == 0.23.0
 tensorflow == 2.15.0

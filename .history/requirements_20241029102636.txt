@@ -1,0 +1,26 @@
+gym >= 0.26
+numpy == 1.24.3
+ml_dtypes == 0.2.0
+# chex == 0.1.85
+optax == 0.1.5
+tensorflow_probability
+tensorflow
+jax
+distrax
+flax
+ml_collections
+tqdm
+absl-py
+scipy
+einops
+imageio
+moviepy
+pre-commit
+transformers
+tensorflow_hub
+tensorflow_text
+tensorflow_datasets
+tensorflow_graphics
+dlimp @ git+https://github.com/kvablack/dlimp@5edaa4691567873d495633f2708982b42edf1972
+plotly
+matplotlib

@@ -5,8 +5,7 @@ __pycache__/
 *$py.class
 # C extensions
 *.so
-data/
-pretrained/
+
 # Distribution / packaging
 .Python
 build/
